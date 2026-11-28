@@ -11,7 +11,7 @@
     "photo": "https://tse2.mm.bing.net/th/id/OIP.XVyji2OzB8qYC0v4y_zLBgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "price": "15.00",
       "discription": "настільна ігра"
-  }
+  },
   {"id": 3,
     "name": "Dobble",
     "photo": "https://tse4.mm.bing.net/th/id/OIP.Z7R2OFvxxHpI9T8odcig8gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
@@ -36,5 +36,5 @@
     "price": "100.00",
        "discription": "настільна ігра"
   }
-]
+ ]
 }
