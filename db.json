@@ -1,1 +1,37 @@
-
+products: [
+  {"id": 1,
+    "name": "маркер",
+    "photo": "https://tse2.mm.bing.net/th/id/OIP.0dpGjbFIO54u5Cmlu4deHAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": "10.00",
+        "discription": "настільна ігра"
+  },
+{"id": 2,
+    "name": "ножиці",
+    "photo": "https://tse2.mm.bing.net/th/id/OIP.XVyji2OzB8qYC0v4y_zLBgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": "15.00",
+      "discription": "настільна ігра"
+  }
+  {"id": 3,
+    "name": "Dobble",
+    "photo": "https://tse4.mm.bing.net/th/id/OIP.Z7R2OFvxxHpI9T8odcig8gHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": "90.00",
+        "discription": "настільна ігра"
+  },
+    {"id": 4,
+    "name": "монополія",
+    "photo": "https://kubix.com.ua/upload/seo_img/56hsy31s87jmggssoak44ga4abbw63k2.webp",
+    "price": "80.00",
+       "discription": "настільна ігра"
+  },
+    {"id": 5,
+    "name": "UNO",
+    "photo": "https://unoregler.net/wp-content/uploads/elementor/thumbs/16050236145cd1440c25f1c-removebg-preview-q1rda8ynqvir2zfgzx928itzs2gep156h83hdqgz34.png",
+    "price": "80.00",
+       "discription": "настільна ігра"
+  },
+    {"id": 6,
+    "name": "мафія",
+    "photo": "https://tse2.mm.bing.net/th/id/OIP.5AqypTIdTs-XwENJ4_D5mQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": "100.00",
+       "discription": "настільна ігра"
+  }
